@@ -36,7 +36,7 @@ dependencies:
   flutter_svg_provider: ^1.0.3
   particles_flutter:
   video_player: ^2.7.0
-  intl: ^0.17.0
+  intl: 0.18.1
    
 dev_dependencies:
   flutter_test:
